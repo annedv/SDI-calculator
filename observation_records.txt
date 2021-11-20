@@ -1,0 +1,179 @@
+Black Mountain Nature Reserve
+Australian Owlet-nightjar
+1
+Galah
+3
+Sulphur-crested Cockatoo
+3
+Crimson Rosella
+16
+White-throated Treecreeper
+2
+Superb Fairywren
+7
+Red Wattlebird
+4
+White-eared Honeyeater
+1
+White-naped Honeyeater
+8
+Spotted Pardalote
+2
+Striated Pardalote
+5
+Australian Magpie
+2
+Pied Currawong
+6
+Australian Raven
+1
+Magpie-lark
+1
+White-winged Chough
+9
+
+Lake Ginninderra (John Knight Memorial Park)
+Muscovy Duck (Domestic type)
+1
+Maned Duck
+1
+Mallard (Domestic type)
+6
+Crested Pigeon
+7
+Dusky Moorhen
+12
+Eurasian Coot
+18
+Australasian Swamphen
+19
+Australasian Darter
+1
+Little Pied Cormorant
+2
+Gang-gang Cockatoo
+2
+Sulphur-crested Cockatoo
+2
+Red-rumped Parrot
+1
+Superb Fairywren
+8
+Red Wattlebird
+5
+Australian Magpie
+4
+Magpie-lark
+4
+Australian Raven
+1
+
+Australian National Botanic Gardens
+Maned Duck
+9
+Sulphur-crested Cockatoo
+3
+Australian King-Parrot
+4
+Crimson Rosella
+10
+Satin Bowerbird
+1
+Superb Fairywren
+9
+Eastern Spinebill
+7
+Noisy Miner
+2
+Red Wattlebird
+7
+White-plumed Honeyeater
+1
+New Holland Honeyeater
+8
+White-naped Honeyeater
+1
+Spotted Pardalote
+5
+Striated Pardalote
+1
+White-browed Scrubwren
+3
+Brown Thornbill
+3
+Golden Whistler
+1
+Australian Magpie
+4
+Pied Currawong
+2
+Grey Fantail
+2
+Magpie-lark
+2
+Eastern Yellow Robin
+1
+Silvereye
+2
+Eurasian Blackbird
+1
+
+University of Canberra
+Maned Duck
+2
+Crested Pigeon
+1
+Masked Lapwing
+1
+Galah
+15
+Sulphur-crested Cockatoo
+3
+Superb Parrot
+3
+Australian King-Parrot
+2
+Crimson Rosella
+2
+Eastern Rosella
+2
+Noisy Miner
+13
+Red Wattlebird
+20
+White-plumed Honeyeater
+1
+Australian Magpie
+7
+Pied Currawong
+1
+Magpie-lark
+1
+Australian Raven
+12
+Common Starling
+3
+Common Myna
+2
+
+Australian National University
+Maned Duck
+9
+Crested Pigeon
+2
+Eastern Rosella
+2
+Rainbow Lorikeet
+1
+Noisy Miner
+4
+Red Wattlebird
+1
+Striated Pardalote
+1
+Australian Magpie
+3
+Australian Raven
+2
+
+END
